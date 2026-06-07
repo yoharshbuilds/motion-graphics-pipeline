@@ -1,0 +1,285 @@
+[
+  {
+    "type": "graphic",
+    "timestamp_sec": 0,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_0s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 1,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_1s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_2s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A stylized graphic with bold blue text reading 'BRAIN CANDY' over a pink-tinted background showing various documents or webpages. Below is 'Ep.01' and 'Data websites worth saving' in blue text, with 'THE INTERNET' in white text on a black label at the bottom.",
+    "tags": [
+      "title card",
+      "episode graphic",
+      "styled text overlay",
+      "Brain Candy series"
+    ],
+    "timestamp_sec": 6,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_6s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A stylized graphic showing multiple pixelated portrait tiles arranged in a collage pattern against a dark background. Text overlay reads 'AND TODAY' with additional text at bottom about conversations pairing people across demographics.",
+    "tags": [
+      "infographic",
+      "data visualization",
+      "collage",
+      "illustration"
+    ],
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_8s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A data visualization heat map showing the distribution of PIN numbers used on websites. The chart plots first two digits versus second two digits, with a diagonal line showing common patterns. The visualization includes annotations pointing out specific common PINs like '1234' and shows that websites account for 27% of all PIN numbers. Lists of most and least common PIN combinations are shown at the bottom.",
+    "tags": [
+      "data visualization",
+      "heat map",
+      "chart",
+      "infographic",
+      "PIN numbers",
+      "statistics",
+      "cybersecurity"
+    ],
+    "timestamp_sec": 9,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_9s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A screenshot of a website called 'The Pudding' showing a grid of visual data journalism articles with titles like 'k-pop generations', 'similes', and 'A Journey Through Infertility'. Each article is represented by a thumbnail image and brief description.",
+    "tags": [
+      "website",
+      "screenshot",
+      "data visualization",
+      "article grid",
+      "interface"
+    ],
+    "timestamp_sec": 12,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_12s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A graphic novel or comic-style illustration with text overlays describing a story about a Chinese immigrant mother named Haimei in New York City. The image shows illustrated panels with captions and the word 'INTERACTIVE' overlaid on the bottom panel.",
+    "tags": [
+      "illustrated",
+      "graphic novel",
+      "comic",
+      "text overlay",
+      "narrative"
+    ],
+    "timestamp_sec": 14,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_14s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 17,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_17s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 18,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_18s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 19,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_19s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 20,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_20s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A screenshot of the 'Information is Beautiful' website homepage, showing a grid of various data visualization articles including topics like billions spent, the Russia-Ukraine War, news of 2025, mythconceptions about contagious diseases, infographic training, and vaccines & autism research. The layout features colorful grid visualizations, icon arrays, and circular diagrams arranged in a tile format.",
+    "tags": [
+      "website screenshot",
+      "data visualization",
+      "homepage",
+      "infographics",
+      "article grid",
+      "Information is Beautiful"
+    ],
+    "timestamp_sec": 27,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_27s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A multi-part infographic displaying world oil production and Russian oil export data. The top section shows a treemap of leading oil producers with the US and Russia prominently featured. The middle shows a Sankey diagram of Russian oil import destinations. The bottom displays a bubble chart showing countries' dependency on Russian oil exports, with bold white text 'YOU GO TO' overlaid.",
+    "tags": [
+      "infographic",
+      "data visualization",
+      "treemap",
+      "Sankey diagram",
+      "bubble chart",
+      "oil production",
+      "Russian exports",
+      "statistics",
+      "multiple charts"
+    ],
+    "timestamp_sec": 30,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_30s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Comprehensive infographic about the Russia-Ukraine War showing casualty statistics with dot-matrix visualizations, comparative conflict data, military spending bar charts, GDP comparisons, and territory occupation percentages across multiple data visualization panels on a black background.",
+    "tags": [
+      "infographic",
+      "data_visualization",
+      "war_statistics",
+      "Russia-Ukraine",
+      "casualties",
+      "military_spending",
+      "comparative_analysis",
+      "charts",
+      "graphs"
+    ],
+    "timestamp_sec": 31,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_31s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "An infographic showing % renewable electricity by country using color-coded world maps and data visualizations. The legend indicates ranges from 0-20% (pink) to 80-100% (cyan). Includes a global map at top and regional breakdowns for USA and Europe at bottom. Text overlay reads 'ARTICLE.' in white.",
+    "tags": [
+      "infographic",
+      "data visualization",
+      "world map",
+      "renewable electricity",
+      "statistics",
+      "chart"
+    ],
+    "timestamp_sec": 32,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_32s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Screenshot of the Our World in Data website showing a world map data visualization about life expectancy, with a search bar and navigation menu visible at the top.",
+    "tags": [
+      "screenshot",
+      "website",
+      "data visualization",
+      "map",
+      "infographic"
+    ],
+    "timestamp_sec": 37,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_37s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A stacked area chart showing deaths due to measles by region from 1980 to 2023, with colored layers representing different WHO regions. The chart shows a dramatic decline in measles deaths over time, with text overlay reading 'YOU SIMPLE' in white text on a dark banner.",
+    "tags": [
+      "chart",
+      "data visualization",
+      "measles deaths",
+      "public health",
+      "area chart",
+      "statistical graphic"
+    ],
+    "timestamp_sec": 40,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_40s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 42,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_42s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame shows a split-screen composition. The top half displays a world map data visualization titled 'Life expectancy, 2023' with countries color-coded by different life expectancy ranges. The bottom half shows a person speaking to camera with the text overlay 'LIVING' in bold letters at the center of the frame.",
+    "tags": [
+      "data visualization",
+      "map",
+      "infographic",
+      "split-screen",
+      "text overlay"
+    ],
+    "timestamp_sec": 43,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_43s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing a line chart from Our World in Data about extreme poverty (1985-2022) on top half, with a person speaking below. Text overlay reads 'IS EXTREME' in bold black label.",
+    "tags": [
+      "split-screen",
+      "data visualization",
+      "chart",
+      "text overlay",
+      "statistical graphic"
+    ],
+    "timestamp_sec": 44,
+    "frame_path": "test_artifacts/every_3aZzaioNXWo_44s.jpg",
+    "video_id": "3aZzaioNXWo",
+    "video_title": "Most underrated websites on the internet!",
+    "source_channel": "aevytv"
+  }
+]

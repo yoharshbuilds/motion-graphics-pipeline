@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Node / Next.js (viewer)
+node_modules/
+viewer/.next/
+viewer/out/
+viewer/build/
+viewer/.vercel/
+*.tsbuildinfo
+viewer/next-env.d.ts
+
+# Agent / editor tooling
+.superpowers/
+.playwright-mcp/
+.claude/
+
+# OS
+.DS_Store

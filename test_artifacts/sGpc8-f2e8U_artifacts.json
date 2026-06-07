@@ -1,0 +1,175 @@
+[
+  {
+    "type": "broll",
+    "description": "This is a medium shot of a man speaking into a microphone, with bookshelves and framed art in the background.",
+    "tags": [
+      "podcast",
+      "interview",
+      "man speaking",
+      "studio setup",
+      "bookshelves"
+    ],
+    "quality": "high",
+    "timestamp_sec": 0,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_0s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features a graphic with \"Imtiaz Ali\" and \"Writer, Director\" text, along with two people in a black and white stylized image, and a 'PORTER' logo.",
+    "tags": [
+      "graphic",
+      "text overlay",
+      "name card",
+      "stylized image",
+      "black and white",
+      "Imtiaz Ali",
+      "writer",
+      "director",
+      "Porter"
+    ],
+    "quality": "high",
+    "timestamp_sec": 20,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_20s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features multiple stylized figures engrossed in their phones, with glowing text bubbles above some, indicating a graphic representation of communication or public interaction.",
+    "tags": [
+      "stylized illustration",
+      "mobile phones",
+      "social media",
+      "digital communication",
+      "dark aesthetic",
+      "text overlay",
+      "Porter logo"
+    ],
+    "quality": "high",
+    "timestamp_sec": 40,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_40s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "broll",
+    "description": "This frame features an interesting composition with a speaker in the foreground and a graphic overlay, providing both visual interest and textual information.",
+    "tags": [
+      "speaker",
+      "podcast",
+      "youtube",
+      "text overlay",
+      "branding",
+      "man",
+      "long hair",
+      "serious",
+      "interview",
+      "porter"
+    ],
+    "quality": "high",
+    "timestamp_sec": 60,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_60s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features Raj Shamani speaking, with a prominent text overlay 'And Almost Every Character' in a stylized yellow font in the lower part of the screen. A 'DELIVERED BY PORTER' logo with a circular 'F' symbol is visible in the top right corner. The background includes framed pictures and a bookshelf.",
+    "tags": [
+      "Raj Shamani",
+      "podcast",
+      "text overlay",
+      "branding",
+      "interview",
+      "studio",
+      "YouTube"
+    ],
+    "quality": "high",
+    "timestamp_sec": 80,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_80s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a frame from a podcast/interview featuring a man with curly hair, wearing a green jacket, talking into a microphone. The frame includes text overlays like \"For An Artist Like,\" a countdown timer, and branding elements for 'Figuring Out' and 'DELIVERED BY PORTER'.",
+    "tags": [
+      "podcast",
+      "interview",
+      "man",
+      "curly hair",
+      "microphone",
+      "text overlay",
+      "branding",
+      "Figuring Out",
+      "Porter"
+    ],
+    "quality": "high",
+    "timestamp_sec": 100,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_100s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "broll",
+    "description": "A man is in conversation using hand gestures, with a visually appealing background including bookshelves, framed art, and a kettle.",
+    "tags": [
+      "man",
+      "conversation",
+      "hand gestures",
+      "podcast",
+      "interview"
+    ],
+    "quality": "high",
+    "timestamp_sec": 120,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_120s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "broll",
+    "description": "A close-up shot on Raj Shamani speaking into a microphone, with a dark background showcasing shelves with various items and a 'Porter' branded helmet on the desk.",
+    "tags": [
+      "Raj Shamani",
+      "podcast",
+      "interview",
+      "speaking",
+      "microphone",
+      "Porter branding",
+      "office setup",
+      "branding"
+    ],
+    "quality": "high",
+    "timestamp_sec": 140,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_140s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features a mobile app interface for selecting a vehicle for delivery, accompanied by a person speaking, a brand logo, and other text overlays.",
+    "tags": [
+      "mobile app",
+      "delivery service",
+      "Porter",
+      "app interface",
+      "brand promotion"
+    ],
+    "quality": "high",
+    "timestamp_sec": 160,
+    "frame_path": "test_artifacts/sGpc8-f2e8U_160s.jpg",
+    "video_id": "sGpc8-f2e8U",
+    "video_title": "\u2060Imtiaz Ali On Love, Heartbreak, Rockstar, Tamasha & Bollywood Filmmaking | FO517 Raj Shamani",
+    "source_channel": "rajshamani"
+  }
+]

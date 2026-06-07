@@ -1,0 +1,150 @@
+[
+  {
+    "type": "graphic",
+    "description": "This is a graphic featuring three young individuals (appearing to be stock photos) with text overlays, which could be useful for video editors looking for visuals related to youth, ambition, or career.",
+    "tags": [
+      "youth",
+      "ambition",
+      "career",
+      "text overlay",
+      "conceptual"
+    ],
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_2s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "stock_photo",
+    "description": "This is a stock photo of three smiling young people looking upwards, with the overlaid text 'IF I WANT THE YOUTH OF INDIA TO CHANGE'.",
+    "tags": [
+      "stock photo",
+      "youth",
+      "india",
+      "group",
+      "smiling",
+      "aspirational"
+    ],
+    "timestamp_sec": 3,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_3s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "stock_photo",
+    "description": "This is a stock photo featuring three young adults, presumably representing the youth of India, looking upwards and smiling, with text overlayed.",
+    "tags": [
+      "youth",
+      "India",
+      "people",
+      "smiling",
+      "group",
+      "aspirational",
+      "students",
+      "creative"
+    ],
+    "timestamp_sec": 4,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_4s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame contains a stylized text overlay against a backdrop with a silhouette of a person, creating a dramatic visual effect that could be used for an intro or transition.",
+    "tags": [
+      "text overlay",
+      "silhouette",
+      "dramatic",
+      "intro",
+      "transition"
+    ],
+    "timestamp_sec": 6,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_6s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a graphic featuring stylized text 'CHANGING THEI' and two halftone-style eyes, suggesting an abstract concept or visual metaphor.",
+    "tags": [
+      "graphic",
+      "abstract",
+      "eyes",
+      "text overlay",
+      "halftone"
+    ],
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_8s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "stock_photo",
+    "description": "This is a stock photo of a person silhouetted against a body of water, with an overlay of text.",
+    "tags": [
+      "silhouette",
+      "water",
+      "nature",
+      "person",
+      "fact"
+    ],
+    "timestamp_sec": 17,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_17s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "stock_photo",
+    "description": "This is a stock photo of a silhouette of a person standing in water, with an overlay of text.",
+    "tags": [
+      "stock photo",
+      "silhouette",
+      "water",
+      "inspirational quote",
+      "text overlay"
+    ],
+    "timestamp_sec": 18,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_18s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "stock_photo",
+    "description": "This is a stock photo of a person silhouetted against a body of water, with an overlay of text.",
+    "tags": [
+      "silhouette",
+      "water",
+      "inspirational quote",
+      "person",
+      "reflection"
+    ],
+    "timestamp_sec": 19,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_19s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame is useful for video editors as it features a graphic with text instructions and a call to action element, demonstrating how to incorporate custom typography and interactive elements into short-form video content.",
+    "tags": [
+      "text overlay",
+      "call to action",
+      "YouTube logo",
+      "animated text",
+      "pink background"
+    ],
+    "timestamp_sec": 30,
+    "frame_path": "test_artifacts/short_nyKTfqS8fIo_30s.jpg",
+    "video_id": "nyKTfqS8fIo",
+    "video_title": "Change Your Mind More Often",
+    "source_channel": "nikhil.kamath"
+  }
+]

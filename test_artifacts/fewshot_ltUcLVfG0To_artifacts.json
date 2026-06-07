@@ -1,0 +1,247 @@
+[
+  {
+    "type": "stock_photo",
+    "description": "Still image of a film clapperboard being held in front of someone",
+    "tags": [
+      "clapperboard",
+      "behind-the-scenes",
+      "photo"
+    ],
+    "timestamp_sec": 0,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_0s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photograph of a person holding a film clapperboard on what appears to be a podcast or interview set. The image is not live footage but a static photo inserted into the video with text overlays reading 'Real Rockstar!' and 'Stories'.",
+    "tags": [
+      "static image",
+      "photo insert",
+      "clapperboard",
+      "text overlay"
+    ],
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_2s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photograph of a person holding a film clapperboard in what appears to be a studio setting. The photo is overlaid with text labels 'Real Rockstar!' at the top and 'Life' at the bottom.",
+    "tags": [
+      "clapperboard",
+      "studio photo",
+      "text overlay",
+      "still image"
+    ],
+    "timestamp_sec": 4,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_4s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photo of a person holding a clapperboard with text overlay identifying them as 'Imtiaz Ali' and 'Real Rockstar!' at the top. This is a static image inserted into the video.",
+    "tags": [
+      "photo",
+      "behind-the-scenes",
+      "clapperboard",
+      "text overlay"
+    ],
+    "timestamp_sec": 7,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_7s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photo of a person holding a film clapboard with text overlay 'Real Rockstar!' and 'End Clap'",
+    "tags": [
+      "clapboard",
+      "film production",
+      "behind the scenes"
+    ],
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_8s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photo of a person standing in a doorway with the text 'Real Rockstar!' overlaid at the top. This is a static image inserted into the video, not live footage.",
+    "tags": [
+      "stock_photo",
+      "still_image",
+      "text_overlay"
+    ],
+    "timestamp_sec": 13,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_13s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photo of a person standing against a wall with 'Real Rockstar!' text overlaid at the top",
+    "tags": [
+      "still image",
+      "portrait photo",
+      "text overlay"
+    ],
+    "timestamp_sec": 14,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_14s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photo of a person with curly gray hair wearing an olive green jacket and black shirt with 'PANJAB' text, with 'Real Rockstar!' caption overlay at the top",
+    "tags": [
+      "still_image",
+      "photo",
+      "text_overlay",
+      "portrait"
+    ],
+    "timestamp_sec": 18,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_18s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A framed still photo of a smiling person with curly gray hair, likely used as a cutaway or b-roll insert in the video",
+    "tags": [
+      "framed photo",
+      "still image",
+      "portrait"
+    ],
+    "timestamp_sec": 20,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_20s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A framed photo or still image of someone at a podcast desk, inserted as B-roll into the video. This is not a live talking/reacting person within the current video.",
+    "tags": [
+      "photo",
+      "still image",
+      "b-roll",
+      "podcast"
+    ],
+    "timestamp_sec": 24,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_24s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "Still photo of a person sitting in what appears to be a studio or podcast setting, with a label 'Real Rockstar!' added at the top. This is a static image inserted into the video, not a live-action talking head.",
+    "tags": [
+      "photo",
+      "still image",
+      "studio shot",
+      "text overlay"
+    ],
+    "timestamp_sec": 25,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_25s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photograph showing two people shaking hands in what appears to be an office or educational setting, with a caption 'Real Rockstar!' at the top. This is a static image inserted into the video, not a live scene.",
+    "tags": [
+      "photo",
+      "still image",
+      "caption overlay"
+    ],
+    "timestamp_sec": 32,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_32s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "A single word \"TOMORROW\" displayed in bold white text centered on a black background, representing kinetic text or a title card",
+    "tags": [
+      "text",
+      "title card",
+      "kinetic text"
+    ],
+    "timestamp_sec": 35,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_35s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "Simple text card displaying scheduling information on a black background - kinetic text overlay used for informational purposes.",
+    "tags": [
+      "text",
+      "scheduling",
+      "announcement"
+    ],
+    "timestamp_sec": 36,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_36s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "Simple text overlay on black background displaying time information",
+    "tags": [
+      "text overlay",
+      "time display",
+      "promotional graphic"
+    ],
+    "timestamp_sec": 37,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_37s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "A graphic end card with show title, host name, and streaming platform icons (YouTube, Apple Podcasts, Spotify, etc.). This is a designed promotional graphic overlay.",
+    "tags": [
+      "end card",
+      "streaming platforms",
+      "promotional graphic",
+      "show branding"
+    ],
+    "timestamp_sec": 38,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_38s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_photo",
+    "description": "A still photograph showing two people posing together, inserted into the video as a static image",
+    "tags": [
+      "photo",
+      "portrait",
+      "still_image"
+    ],
+    "timestamp_sec": 39,
+    "frame_path": "test_artifacts/fewshot_ltUcLVfG0To_39s.jpg",
+    "video_id": "ltUcLVfG0To",
+    "video_title": "Podcast out tomorrow | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  }
+]

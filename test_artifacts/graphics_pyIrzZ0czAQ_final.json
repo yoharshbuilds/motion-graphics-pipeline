@@ -1,0 +1,74 @@
+[
+  {
+    "type": "graphic",
+    "timestamp_sec": 3,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_3s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_8s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A circular illustration of a mosquito appears in a blue-bordered frame, with the text 'DEADLIEST' displayed below it in bold letters against a gray background.",
+    "tags": [
+      "illustration",
+      "mosquito",
+      "text overlay",
+      "graphic design"
+    ],
+    "timestamp_sec": 14,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_14s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 12,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_12s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Screenshot of a webpage or article with highlighted text showing statistics about Project Wolbachia's success in Singapore, including 80-90% suppression of Aedes aegypti mosquitoes",
+    "tags": [
+      "article",
+      "screenshot",
+      "text",
+      "evidence",
+      "statistics",
+      "highlighted"
+    ],
+    "timestamp_sec": 44,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_44s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a split-screen layout combining a screenshot of a Hindustan Times article (with yellow highlighted headline 'ICMR calls for more studies on plan to use bugged mosquitoes') on top, and a video of a person speaking labeled 'BEFORE' on the bottom half.",
+    "tags": [
+      "split-screen",
+      "article screenshot",
+      "news story",
+      "text overlay",
+      "video composite"
+    ],
+    "timestamp_sec": 49,
+    "frame_path": "test_artifacts/every_pyIrzZ0czAQ_49s.jpg",
+    "video_id": "pyIrzZ0czAQ",
+    "video_title": "Why google loves mosquitoes!",
+    "source_channel": "aevytv"
+  }
+]

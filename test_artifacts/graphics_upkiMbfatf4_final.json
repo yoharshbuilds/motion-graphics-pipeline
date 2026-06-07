@@ -1,0 +1,169 @@
+[
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing two people speaking, with styled text overlay reading 'I got FOOD POISON eating a WATERMELON' and 'THIS VIDEO' label between the frames",
+    "tags": [
+      "split-screen",
+      "text overlay",
+      "title card",
+      "two speakers"
+    ],
+    "timestamp_sec": 0,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_0s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_2s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 32,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_32s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 34,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_34s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing store shelves with supplement containers (Mass Pro, Pro products) in the top half and a woman speaking in the bottom half, with yellow subtitle text reading 'POWDER.'",
+    "tags": [
+      "split-screen",
+      "products",
+      "supplements",
+      "text overlay",
+      "subtitles"
+    ],
+    "timestamp_sec": 35,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_35s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 37,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_37s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "A product shot showing a protein powder container with the brand name 'MUSCLEBLAZE' displayed prominently as a text overlay at the bottom of the frame. The container is centered against a dark background.",
+    "tags": [
+      "product",
+      "protein powder",
+      "MuscleBlaze",
+      "supplement",
+      "container"
+    ],
+    "timestamp_sec": 45,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_45s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 47,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_47s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 51,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_51s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 58,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_58s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 61,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_61s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Product shot of a MuscleBlaze protein whey container with a Labdoor 'Tested for Accuracy & Purity 2026' certification badge overlay and subtitle text 'VERIFIED IT'",
+    "tags": [
+      "product shot",
+      "certification badge",
+      "text overlay",
+      "branded content"
+    ],
+    "timestamp_sec": 62,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_62s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 63,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_63s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Product advertisement showing a protein supplement container (Biozyme Performance Whey by MuscleBlaze) against a gray background with molecular graphics and bold text overlay. This is a promotional graphic design with product photography and styled text elements.",
+    "tags": [
+      "advertisement",
+      "product photo",
+      "protein supplement",
+      "graphic design",
+      "text overlay",
+      "molecular graphics"
+    ],
+    "timestamp_sec": 70,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_70s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  },
+  {
+    "type": "graphic",
+    "description": "Screenshot of a Labdoor laboratory test results certificate for MuscleBlaze Biozyme Performance Whey protein supplement, showing detailed analysis tables with protein content, amino acids, and heavy metals testing results, with text overlay reading 'EVERY SINGLE'",
+    "tags": [
+      "lab results",
+      "certificate",
+      "screenshot",
+      "product testing",
+      "data table"
+    ],
+    "timestamp_sec": 67,
+    "frame_path": "test_artifacts/every_upkiMbfatf4_67s.jpg",
+    "video_id": "upkiMbfatf4",
+    "video_title": "Here's how labels lie #AD",
+    "source_channel": "aevytv"
+  }
+]

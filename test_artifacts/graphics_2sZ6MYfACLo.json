@@ -1,0 +1,283 @@
+[
+  {
+    "type": "graphic",
+    "description": "Bold large yellow text displaying '10 BILLION DOLLARS' overlaid on a blurred background image showing buildings and sky. This is a stat/fact reveal graphic with deliberate stylized typography.",
+    "tags": [
+      "text overlay",
+      "stat reveal",
+      "fact graphic",
+      "large text",
+      "stylized background"
+    ],
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_2s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Bold yellow text '10 BILLION DOLLARS' overlaid on a blurred background showing buildings or structures with blue sky visible. This is a stat reveal frame designed to emphasize a large financial figure.",
+    "tags": [
+      "text overlay",
+      "stat reveal",
+      "financial data",
+      "dramatic emphasis"
+    ],
+    "timestamp_sec": 3,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_3s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing Rolex building in top half and woman speaking with microphone in bottom half, with yellow subtitle text 'about'",
+    "tags": [
+      "split-screen",
+      "brand building",
+      "talking head with caption",
+      "two-element composition"
+    ],
+    "timestamp_sec": 7,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_7s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing a Rolex building exterior in the top half and a female host speaking with yellow subtitle text in the bottom half",
+    "tags": [
+      "split-screen",
+      "building",
+      "host",
+      "subtitle"
+    ],
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_8s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout combining Rolex building exterior in top half with host speaking in bottom half, with yellow subtitle caption 'biggest'",
+    "tags": [
+      "split-screen",
+      "building",
+      "host",
+      "subtitle"
+    ],
+    "timestamp_sec": 9,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_9s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen composition showing Rolex building signage in the top half and a female host speaking to camera in the bottom half, with the subtitle 'luxury' overlaid on the host portion.",
+    "tags": [
+      "split-screen",
+      "building photo",
+      "talking head",
+      "subtitle caption",
+      "brand signage"
+    ],
+    "timestamp_sec": 10,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_10s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Bold year '1945' displayed in large gold numbers over a soft beige background with faded watch imagery, creating a historical date reveal design.",
+    "tags": [
+      "date reveal",
+      "historical",
+      "year display",
+      "gold text"
+    ],
+    "timestamp_sec": 18,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_18s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "timestamp_sec": 19,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_19s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Historical photo of Hans Wilsdorf (1945 indicated at top) holding a large Rolex charity check dated 04-03-2020 for \u00a3300,000 to The Prince's Trust. The image combines archival photography with modern styled text overlay (year '1945' in gold) and a contemporary check element, creating a composed visual meant to illustrate historical context with modern facts.",
+    "tags": [
+      "historical photo",
+      "text overlay",
+      "styled composition",
+      "archival image",
+      "charity check",
+      "Rolex",
+      "visual evidence"
+    ],
+    "timestamp_sec": 20,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_20s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Historical photo with styled text overlay showing a person from 1945 holding a large Rolex check made out to The Prince's Trust for \u00a3300,000 dated 04.03.2020. The image combines archival photography with modern graphic design elements including bold yellow '1945' text at the top.",
+    "tags": [
+      "historical photo",
+      "text overlay",
+      "date indicator",
+      "check/document",
+      "composite image",
+      "styled graphic"
+    ],
+    "timestamp_sec": 21,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_21s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Historical photo with styled text overlay showing a person from 1945 holding a check for The Prince's Trust, with date, amount, and Hans Wilsdorf Foundation branding. Year 1945 prominently displayed at top.",
+    "tags": [
+      "historical photo",
+      "text overlay",
+      "check",
+      "foundation",
+      "date reveal",
+      "styled graphic"
+    ],
+    "timestamp_sec": 22,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_22s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing '1960' and '100%' text overlay at top, with talking head host speaking at bottom with yellow subtitle 'transferred'",
+    "tags": [
+      "split-screen",
+      "text overlay",
+      "stat reveal",
+      "historical date",
+      "subtitle caption"
+    ],
+    "timestamp_sec": 24,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_24s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing an animated infographic about 1960 and 100% with bank icons and dollar signs in the top half, and a woman speaking with '100%' subtitle text in the bottom half",
+    "tags": [
+      "split-screen",
+      "infographic",
+      "animated graphics",
+      "text overlay",
+      "subtitle"
+    ],
+    "timestamp_sec": 25,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_25s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout with an animated infographic showing 1960 and 100% with illustrated buildings and dollar signs above, and a person speaking with subtitle below.",
+    "tags": [
+      "split-screen",
+      "infographic",
+      "animated",
+      "subtitle"
+    ],
+    "timestamp_sec": 26,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_26s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing an animated infographic about 1960 with 100% and building icons in the top half, and a host speaking at a microphone with subtitle 'which' in the bottom half",
+    "tags": [
+      "split-screen",
+      "infographic",
+      "animated graphic",
+      "data visualization",
+      "host",
+      "statistics"
+    ],
+    "timestamp_sec": 27,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_27s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Split-screen layout showing a Rolex building exterior in the top half and a speaking host with caption text in the bottom half",
+    "tags": [
+      "split-screen",
+      "building",
+      "host",
+      "caption",
+      "branded"
+    ],
+    "timestamp_sec": 28,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_28s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Screenshot of a webpage article with headline and photo of Rolex building. Below is text with highlighted portions about Swiss law and Rolex's financial disclosure requirements.",
+    "tags": [
+      "article",
+      "screenshot",
+      "text overlay",
+      "fact reveal",
+      "documentation"
+    ],
+    "timestamp_sec": 36,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_36s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  },
+  {
+    "type": "graphic",
+    "description": "Screenshot of an article or blog post with highlighted text overlay showing information about IKEA's ownership structure, combined with an image of an IKEA store building with added text 'institutions'",
+    "tags": [
+      "article",
+      "screenshot",
+      "text overlay",
+      "highlighted text",
+      "IKEA",
+      "building",
+      "corporate information"
+    ],
+    "timestamp_sec": 46,
+    "frame_path": "test_artifacts/every_2sZ6MYfACLo_46s.jpg",
+    "video_id": "2sZ6MYfACLo",
+    "video_title": "Rolex and IKEA are a charity?!!",
+    "source_channel": "nikhil.kamath"
+  }
+]

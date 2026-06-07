@@ -1,0 +1,522 @@
+[
+  {
+    "type": "stock_footage",
+    "description": "A woman wearing gloves holds a brain during what appears to be a podcast recording, with a microphone and 'Build don't talk' sign in the background, accompanied by a disclaimer about the specimen.",
+    "tags": [
+      "brain",
+      "podcast",
+      "education",
+      "science",
+      "medical",
+      "specimen",
+      "disclaimer",
+      "studio"
+    ],
+    "timestamp_sec": 0,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_0s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame shows a gloved hand holding a goat brain, which could be used as B-roll for educational or scientific content discussing animal brains.",
+    "tags": [
+      "goat brain",
+      "science",
+      "education",
+      "biology",
+      "medical"
+    ],
+    "timestamp_sec": 1,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_1s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame contains a \"Live Brain on a Podcast\" with a split screen showing a person speaking and hands in gloves manipulating a brain in a petri dish, useful for adding visual interest to a discussion about biology or neuroscience.",
+    "tags": [
+      "podcast",
+      "brain",
+      "biology",
+      "science",
+      "gloved hands"
+    ],
+    "timestamp_sec": 2,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_2s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame shows a biological specimen (brain) being handled by gloved hands, suitable for scientific or educational content.",
+    "tags": [
+      "brain",
+      "biology",
+      "science",
+      "specimen",
+      "gloves",
+      "laboratory",
+      "education"
+    ],
+    "timestamp_sec": 3,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_3s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This is a split screen video displaying a young man on a podcast setting on the top split, and a medical procedure where a brain specimen is being handled on the bottom split, with a disclaimer about the specimen.",
+    "tags": [
+      "podcast",
+      "medical",
+      "brain",
+      "specimen",
+      "educational",
+      "disclaimer",
+      "split screen"
+    ],
+    "timestamp_sec": 6,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_6s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame is useful for illustrating a podcast discussing a biological specimen, particularly a brain.",
+    "tags": [
+      "podcast",
+      "brain",
+      "biology",
+      "human brain",
+      "scientific discussion"
+    ],
+    "timestamp_sec": 7,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_7s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame features a person presenting a biological specimen, which could be useful for educational or scientific content.",
+    "tags": [
+      "biology",
+      "science",
+      "specimen",
+      "podcast",
+      "education",
+      "discussion",
+      "gloves",
+      "brain"
+    ],
+    "timestamp_sec": 8,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_8s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame contains a title and an image, depicting a person speaking into a microphone and another scene of hands in blue gloves handling a brain, with text below explaining its context.",
+    "tags": [
+      "podcast",
+      "brain",
+      "scientific experiment",
+      "educational content",
+      "medical"
+    ],
+    "timestamp_sec": 9,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_9s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame captures a close-up of gloved hands handling a biological specimen in a petri dish, with a microphone in the background, suggesting a scientific discussion on a podcast.",
+    "tags": [
+      "scientific discussion",
+      "podcast",
+      "biological specimen",
+      "gloves",
+      "petri dish",
+      "science communication",
+      "microscope",
+      "healthcare",
+      "education"
+    ],
+    "timestamp_sec": 10,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_10s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame captures a scientific or medical procedure with hands in gloves manipulating a specimen in a petri dish, set in what appears to be a recording studio with microphones, useful for segments discussing scientific topics or podcast production.",
+    "tags": [
+      "science",
+      "lab work",
+      "medical",
+      "podcast",
+      "gloves",
+      "petri dish",
+      "microphone"
+    ],
+    "timestamp_sec": 12,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_12s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame shows a person in blue gloves handling what appears to be a biological specimen (brains) on a wire rack, with a podcast microphone and other scientific tools visible.",
+    "tags": [
+      "podcast",
+      "science",
+      "biology",
+      "brain",
+      "specimen",
+      "educational",
+      "medical",
+      "experiment"
+    ],
+    "timestamp_sec": 14,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_14s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame captures a top-down view of a scientific or educational setup with brains and a microphone, indicating a podcast discussion about anatomy or neuroscience.",
+    "tags": [
+      "podcast",
+      "brain",
+      "scientific",
+      "education",
+      "anatomy",
+      "neuroscience",
+      "gloves",
+      "microphone",
+      "top-down"
+    ],
+    "timestamp_sec": 15,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_15s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This clip shows hands in purple gloves handling a biological specimen in a petri dish, with podcast microphones in the background, suitable for B-roll in scientific or discussion-based videos.",
+    "tags": [
+      "science",
+      "biology",
+      "podcast",
+      "experiment",
+      "educational",
+      "specimen",
+      "hands",
+      "gloves",
+      "medical",
+      "laboratory"
+    ],
+    "timestamp_sec": 16,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_16s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame captures two individuals in purple gloves handling a biological specimen in a petri dish, set up with what appears to be recording equipment, making it suitable as a B-roll for scientific or educational content.",
+    "tags": [
+      "science",
+      "biology",
+      "specimen",
+      "gloves",
+      "petri dish",
+      "laboratory",
+      "education",
+      "podcast"
+    ],
+    "timestamp_sec": 18,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_18s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This frame captures two individuals in purple gloves handling what appears to be a brain in a petri dish, with a microphone and other scientific equipment on a table, suitable for illustrating scientific discussions or podcasts.",
+    "tags": [
+      "podcast",
+      "science",
+      "medical",
+      "brain",
+      "gloves",
+      "laboratory",
+      "equipment",
+      "anatomy",
+      "educational",
+      "discussion"
+    ],
+    "timestamp_sec": 20,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_20s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features text overlays including a title, a quote, and a disclaimer, along with an image of a person, suitable for a podcast or educational content.",
+    "tags": [
+      "text overlay",
+      "podcast title",
+      "quote",
+      "disclaimer",
+      "education",
+      "discussion",
+      "men",
+      "curly hair"
+    ],
+    "timestamp_sec": 21,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_21s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This clip features a person with grey hair and glasses on top of their head, speaking into a microphone during what appears to be a podcast, providing an animated visual for a podcast or interview scene.",
+    "tags": [
+      "podcast",
+      "interview",
+      "woman talking",
+      "podcast host",
+      "live brain",
+      "educational content"
+    ],
+    "timestamp_sec": 24,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_24s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features text overlays including a title suggesting an unusual topic and a disclaimer about a 'biological specimen,' which could be used as a title card or a humorous opening graphic.",
+    "tags": [
+      "text overlay",
+      "title card",
+      "disclaimer",
+      "humor",
+      "podcast"
+    ],
+    "timestamp_sec": 25,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_25s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This clip features a man sitting down, looking and smiling to the side, potentially engaging in conversation, suitable for reaction shots or background presence.",
+    "tags": [
+      "man",
+      "sitting",
+      "smiling",
+      "conversation",
+      "podcast",
+      "interview",
+      "casual",
+      "positive",
+      "indoor",
+      "male"
+    ],
+    "timestamp_sec": 27,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_27s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This clip features an older woman with gray hair wearing a blue patterned shirt, gesticulating while speaking, which could be used as a reaction shot or a clip of a speaker in a podcast or interview.",
+    "tags": [
+      "podcast",
+      "interview",
+      "speaker",
+      "woman",
+      "gray hair",
+      "gesticulating",
+      "reaction shot",
+      "discussion"
+    ],
+    "timestamp_sec": 29,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_29s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This clip features an interview setup with a woman speaking, overlaid with text asking a question and a disclaimer at the bottom regarding a biological specimen.",
+    "tags": [
+      "interview",
+      "podcast",
+      "conversation",
+      "female speaker",
+      "text overlay"
+    ],
+    "timestamp_sec": 30,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_30s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame contains text overlays, including a title, a quote, and a disclaimer, which can be useful for editors to present information or quotes in a video.",
+    "tags": [
+      "text overlay",
+      "title",
+      "quote",
+      "disclaimer",
+      "caption"
+    ],
+    "timestamp_sec": 32,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_32s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This frame features text overlay on a video segment, displaying a disclaimer along with spoken words from the speaker.",
+    "tags": [
+      "text overlay",
+      "disclaimer",
+      "podcast",
+      "educational",
+      "interview"
+    ],
+    "timestamp_sec": 33,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_33s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This is a good shot of a man smiling and another person holding a biological specimen (brain) which could be used for educational purposes.",
+    "tags": [
+      "man",
+      "smiling",
+      "podcast",
+      "brain",
+      "biological specimen",
+      "educational",
+      "discussion"
+    ],
+    "timestamp_sec": 34,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_34s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a simple title card with the word 'TOMORROW' in a minimalist style, ideal for transitions or conveying a message.",
+    "tags": [
+      "title card",
+      "text overlay",
+      "minimalist",
+      "tomorrow",
+      "black background"
+    ],
+    "timestamp_sec": 35,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_35s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a title card with the word 'TOMORROW' in bold white letters against a black background, suitable for a dramatic or suspenseful transition.",
+    "tags": [
+      "title card",
+      "text overlay",
+      "tomorrow",
+      "black background",
+      "minimalist"
+    ],
+    "timestamp_sec": 36,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_36s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This is a simple text graphic displaying a time and date, which can be used for announcements or scheduling.",
+    "tags": [
+      "text overlay",
+      "announcement",
+      "time",
+      "date",
+      "simple graphic"
+    ],
+    "timestamp_sec": 37,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_37s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "graphic",
+    "description": "This graphic displays the title of the show 'FIGURING OUT With Raj Shamani' and logos for streaming platforms like YouTube, Spotify, and Apple Podcasts, which is useful for branding and call to action.",
+    "tags": [
+      "title card",
+      "branding",
+      "streaming platforms",
+      "YouTube",
+      "Spotify",
+      "Apple Podcasts"
+    ],
+    "timestamp_sec": 39,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_39s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  },
+  {
+    "type": "stock_footage",
+    "description": "This is a good stock photo to use when featuring two people smiling at the camera, potentially depicting a mother and son or colleagues.",
+    "tags": [
+      "two people",
+      "smiling",
+      "woman",
+      "man",
+      "indoor",
+      "portrait",
+      "family",
+      "colleagues",
+      "happy",
+      "candid"
+    ],
+    "timestamp_sec": 41,
+    "frame_path": "test_artifacts/short_LxKB2UJipQw_41s.jpg",
+    "video_id": "LxKB2UJipQw",
+    "video_title": "Podcast out tomorrow\ud83e\udee1STAY TUNED! | Raj Shamani #Shorts #podcast",
+    "source_channel": "rajshamani"
+  }
+]
